@@ -90,12 +90,14 @@ int main()
 {
     PSeqStack S;
     S=Init_SeqStack();
-    int n,r;
+    int n,r,w;
     printf("请输入要转换的十进制数：");
     scanf("%d",&n);
     printf("请输入要转换的进制数(2,8,16)：");
     scanf("%d",&r);
     printf("将十进制数%d转换为%d进制是：\n",n,r);
     conversion(n,r);
+	printf("输入0关闭程序：");
+	scanf("%d",&w);
 
 }
