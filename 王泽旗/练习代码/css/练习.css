@@ -1,0 +1,47 @@
+body{
+	background-color:#4d4a40;
+	padding: 20px 0;
+	line-height: 2;
+	min-width: 1000px;
+}
+.container{
+	background-color: white;
+/*	margin-top: 20px;*/
+	width: 90%;
+	margin: 0 auto;
+	padding: 30px 0;
+}
+.container header{
+	background-color: #267890;
+	color: white;
+	text-align: center;   /*文字居中*/
+	border: 5px solid #14414e;
+	margin: 0 -34px;
+}
+.container header h1{
+	font-size: 42px;   /*字体大小*/
+	font-weight: bold;   /*字体样式*/
+}
+.container header #original-link{
+	color: #dbdbdb;
+	margin-bottom: 30px;
+}
+.container header #original-link a{
+	text-decoration: underline;
+}
+.container header #original-link a:hover{
+	color: #FFF0FF;
+}
+.container section{
+	width: 89%;
+	margin: 0 auto;
+}
+.container section p{
+	margin: 1em 0;
+}
+.container section h2{
+	font-size: 32px;
+	font-weight: bold;
+	border-top: 1px dotted;
+	border-bottom: 1px dotted;
+}
