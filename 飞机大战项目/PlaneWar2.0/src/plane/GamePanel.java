@@ -19,7 +19,6 @@ import javax.swing.JPanel;
 
 /**
  * 
- * @author 方银�?
  * 本类描述游戏�?始界�?
  *
  */

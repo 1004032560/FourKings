@@ -9,7 +9,6 @@ import javax.swing.JDialog;
 
 /**
  * 
- * @author 方银�?
  * 本类描述飞机爆炸
  *
  */
@@ -20,13 +19,13 @@ public class Break {
 	private int x, y;//坐标
 	JDialog f;
 	public Break(int x, int y) {
-		//实例化敌机爆炸图片数�?
+		//实例化敌机爆炸图片数�?
 		enemy_b = new Image[6];
 		for(int i = 0; i < enemy_b.length; i++) {
 			enemy_b[i] = Toolkit.getDefaultToolkit().getImage(getClass()
 					.getResource("/images/bomb_enemy_" + i + ".png"));
 		}
-		//初始化坐�?
+		//初始化坐�?
 		this.x = x;
 		this.y = y;
 	}

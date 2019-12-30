@@ -13,7 +13,6 @@ import javax.swing.JPanel;
 
 /**
  * 
- * @author 方银�?
  * 本类是主界面�?
  *
  */

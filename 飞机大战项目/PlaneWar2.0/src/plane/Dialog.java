@@ -18,7 +18,6 @@ import javax.swing.JRadioButton;
 
 /**
  * 
- * @author 方银�?
  * 本类描述游戏结束弹出的对话框
  *
  */

@@ -10,7 +10,6 @@ import java.util.Collection;
 
 /**
  * 
- * @author 方银�?
  * 本类描述子弹
  *
  */

@@ -4,7 +4,6 @@ import java.net.URISyntaxException;
 
 /**
  * 
- * @author 方银�?
  * 本类描述碰撞
  *
  */

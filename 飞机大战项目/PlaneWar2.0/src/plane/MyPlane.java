@@ -11,7 +11,6 @@ import java.awt.event.KeyEvent;
 
 /**
  * 
- * @author 方银�?
  * 本类描述玩家飞机
  *
  */
